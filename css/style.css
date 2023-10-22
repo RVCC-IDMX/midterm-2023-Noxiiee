@@ -1,8 +1,73 @@
-.body {
-    background-color: #000000;
+body {
+
+    background-color: black;
+    color: green;
+
+
+
+
+}
+
+h1 {
+
     font-family: 'Pixelify Sans', sans-serif;
-    font color: #green;
-    
-    /* CSS Comment Template /*
-    
+    font-size: 300%;
+
+
+
+}
+
+
+h4 {
+
+    font-family: 'Playfair Display', serif;
+    font-size: medium;
+
+}
+
+bio {
+
+    text-align: left;
+
+
+
+}
+
+work ul li:nth-child(odd) {
+
+  
+
+
+}
+
+
+reviews {
+
+    text-align: center;
+
+
+}
+
+photos {
+
+ 
+
+
+
+}
+
+
+
+footer {
+
+
+
+
+
+}
+
+hr {
+
+
+
 }
